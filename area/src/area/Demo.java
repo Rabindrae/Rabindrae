@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Demo 
 {
  // git check ravi 
+// git jwala check
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
